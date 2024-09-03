@@ -1,0 +1,7 @@
+﻿  labjeu1.cpp
+Guerre.obj : error LNK2019: symbole externe non résolu "public: __cdecl Vaisseau::~Vaisseau(void)" (??1Vaisseau@@QEAA@XZ) référencé dans la fonction "int `public: __cdecl Guerre::Guerre(void)'::`1'::dtor$0" (?dtor$0@?0???0Guerre@@QEAA@XZ@4HA)
+labjeu1.obj : error LNK2001: symbole externe non résolu "public: __cdecl Vaisseau::~Vaisseau(void)" (??1Vaisseau@@QEAA@XZ)
+Livraison.obj : error LNK2001: symbole externe non résolu "public: __cdecl Vaisseau::~Vaisseau(void)" (??1Vaisseau@@QEAA@XZ)
+Transport.obj : error LNK2001: symbole externe non résolu "public: __cdecl Vaisseau::~Vaisseau(void)" (??1Vaisseau@@QEAA@XZ)
+labjeu1.obj : error LNK2019: symbole externe non résolu "public: __cdecl Faction::~Faction(void)" (??1Faction@@QEAA@XZ) référencé dans la fonction main
+C:\Users\2330945\Documents\Code\JeuxVideo\LaboratoireJeu1\labjeu1\x64\Debug\labjeu1.exe : fatal error LNK1120: 2 externes non résolus
